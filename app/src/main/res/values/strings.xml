@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Googlelogin2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_web_client_id">1022932645495-2hbi9blbpsp6lq7ljiqarvtj5nivi560.apps.googleusercontent.com</string>
+</resources>
